@@ -1,0 +1,10 @@
+{
+    "name": "PdfFilterHelper",
+    "version": "1.0.0",
+    "description": "Adds {{#eachFiltered}} template helper for server-side filtered, sorted and limited relation iteration in PDF templates.",
+    "author": "",
+    "php": ">=8.1.0",
+    "require": {
+        "espocrm": ">=8.0.0"
+    }
+}
